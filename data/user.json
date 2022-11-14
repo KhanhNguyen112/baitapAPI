@@ -1,0 +1,19 @@
+{
+    "NguoiDung": [
+      {
+        "name": "Dung1",
+        "taikhoan": "11",
+        "matkhau": 1
+      },
+      {
+        "name": "Tung",
+        "taikhoan": "dung",
+        "matkhau": 1
+      },
+      {
+        "name": "Tung",
+        "taikhoan": "tungtom11",
+        "matkhau": 1
+      }
+    ]
+  }
